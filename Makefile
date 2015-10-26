@@ -1,3 +1,7 @@
+###############################################################
+# ONLY BUILD AND TEST TARGETS HAVE BEEN MOVED TO PACKAGE.JSON #
+###############################################################
+
 BABEL_CMD = node_modules/.bin/babel
 MOCHA_CMD = node_modules/.bin/mocha
 ISTANBUL_CMD = node_modules/.bin/istanbul
