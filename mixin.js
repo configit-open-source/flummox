@@ -1,1 +1,1 @@
-module.exports = require('./lib/addons/fluxMixin');
+module.exports = require('./lib/src/addons/fluxMixin');

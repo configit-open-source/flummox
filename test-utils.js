@@ -1,1 +1,1 @@
-module.exports = require('./lib/addons/TestUtils');
+module.exports = require('./lib/src/addons/TestUtils');
