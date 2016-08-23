@@ -45,5 +45,8 @@
     "flux": "~2.0.1",
     "object-assign": "~2.0.0",
     "uniqueid": "~0.1.0"
+  },
+  "publishConfig": {
+    "registry": "http://nuget.configit.com/npm/npm"
   }
 }
